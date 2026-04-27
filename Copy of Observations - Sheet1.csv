@@ -1,0 +1,268 @@
+return_direction,point_winner,point_end_type,point_end_location,kitchen_rush,server_score,returner_score,shot_count
+middle,server,winner,mid-court,both,0,0,5
+crosscourt,returner,winner,kitchen,returner,1,0,4
+middle,server,winner,mid-court,both,0,1,3
+crosscourt,server,unforced-error,baseline,retuner,1,1,2
+crosscourt,server,winner,kitchen,both,2,1,5
+line,returner,unforced-error,baseline,returner,3,1,4
+middle,returner,winner,kitchen,returner,1,3,4
+crosscourt,server,unforced-error,baseline,returner,3,1,2
+middle,server,winner,baseline,both,4,1,3
+crosscourt,server,winner,baseline,returner,5,1,3
+N/A,returner,unforced-error,baseline,none,6,1,1
+N/A,server,forced-error,baseline,none,1,6,2
+line,server,unforced-error,baseline,returner,2,6,4
+crosscourt,returner,forced-error,kitchen,returner,3,6,7
+middle,server,forced-error,baseline,both,6,3,4
+middle,server,winner,baseline,returner,7,3,5
+line,returner,winner,mid-court,both,8,3,6
+crosscourt,server,winner,mid-court,server,3,8,5
+line,server,forced-error,baseline,returner,4,8,4
+middle,returner,winner,baseline,server,5,8,4
+line,returner,forced-error,mid-court,both,8,5,5
+line,returner,winner,kitchen,returner,5,8,6
+crosscourt,returner,winner,mid-court,both,8,5,4
+crosscourt,server,winner,mid-court,returner,5,8,5
+line,server,unforced-error,baseline,none,6,8,4
+crosscourt,returner,winner,baseline,none,7,8,4
+line,returner,forced-error,kitchen,returner,8,7,5
+crosscourt,server,forced-error,baseline,returner,7,8,5
+line,returner,winner,kitchen,returner,8,8,4
+line,server,forced-error,mid-court,returner,8,8,5
+crosscourt,server,unforced-error,baseline,none,8,8,2
+crosscourt,returner,forced-error,baseline,server,9,8,7
+crosscourt,server,winner,baseline,returner,8,9,3
+N/A,server,forced-error,baseline,none,9,9,1
+line,server,forced-error,baseline,returner,10,9,4
+line,returner,winner,kitchen,returner,0,0,6
+middle,returner,forced-error,baseline,server,0,0,7
+line,returner,forced-error,kitchen,returner,0,0,5
+crosscourt,server,winner,baseline,returner,0,0,3
+middle,server,unforced-error,baseline,none,1,0,2
+line,returner,unforced-error,baseline,returner,2,0,3
+line,server,forced-error,baseline,returner,0,2,6
+middle,returner,unforced-error,kitchen,both,1,2,9
+line,returner,unforced-error,baseline,none,2,1,3
+middle,returner,winner,mid-court,returner,1,2,3
+line,server,forced-error,baseline,returner,2,1,3
+crosscourt,server,forced-error,mid-court,server,3,1,3
+N/A,server,unforced-error,baseline,none,4,1,2
+line,returner,unforced-error,baseline,returner,5,1,3
+N/A,server,unforced-error,baseline,none,1,5,2
+line,server,winner,mid-court,returner,2,5,5
+crosscourt,returner,unforced-error,middle,server,0,0,5
+line,returner,unforced-error,middle,returner,0,0,3
+line,server,winner,middle,returner,0,0,11
+crosscourt,returner,winner,baseline,server,1,0,8
+line,server,forced-error,baseline,returner,0,1,10
+middle,server,unforced-error,middle,none,1,1,2
+line,returner,forced-error,middle,both,2,1,5
+crosscourt,returner,unforced-error,baseline,server,1,2,7
+N/A,returner,unforced-error,middle,none,2,1,1
+middle,server,winner,middle,server,1,2,5
+line,returner,forced-error,middle,both,2,2,10
+middle,returner,unforced-error,middle,both,2,2,5
+crosscourt,returner,winner,middle,returner,2,2,10
+line,server,forced-error,middle,returner,2,2,10
+N/A,server,forced-error,middle,none,3,2,1
+line,server,winner,baseline,returner,4,2,3
+crosscourt,server,unforced-error,middle,server,5,2,4
+middle,server,forced-error,middle,server,6,2,12
+line,returner,unforced-error,middle,returner,7,2,3
+middle,server,unforced-error,middle,server,2,7,4
+crosscourt,server,forced-error,middle,server,3,7,6
+line,server,winner,baseline,both,4,7,13
+crosscourt,server,winner,baseline,both,5,7,7
+line,returner,unforced-error,middle,none,6,7,3
+middle,returner,forced-error,middle,server,7,6,5
+middle,server,winner,middle,returner,6,7,5
+crosscourt,server,winner,middle,none,7,7,3
+line,returner,forced-error,middle,server,8,7,7
+line,server,forced-error,middle,returner,7,8,5
+line,server,winner,baseline,returner,8,8,9
+middle,returner,winner,middle,returner,9,8,5
+line,returner,winner,middle,both,8,9,8
+line,server,winner,middle,returner,9,8,5
+line,server,unforced-error,middle,none,8,9,4
+crosscourt,returner,unforced-error,middle,returner,9,9,5
+middle,returner,forced-error,middle,returner,9,9,3
+line,returner,forced-error,middle,returner,9,9,5
+middle,returner,forced-error,middle,returner,9,9,7
+crosscourt,server,winner,middle,returner,9,9,5
+N/A,server,unforced-error,middle,none,10,9,2
+crosscourt,returner,unforced-error,middle,server,11,9,5
+line,returner,forced-error,middle,server,9,11,2
+line,returner,forced-error,middle,returner,11,9,4
+line,server,winner,middle,server,9,11,5
+middle,server,winner,middle,returner,9-1,11,3
+line,server,forced-error,middle,returner,9-2,11,4
+crosscourt,returner,forced-error,middle,returner,9-3,11,5
+line,returner,forced-error,middle,returner,11,9-3,5
+crosscourt,server,unforced-error,middle,none,9-3,11,2
+line,returner,winner,middle,returner,9-4,11,4
+line,server,unforced-error,baseline,none,0,0,4
+crosscourt,server,unforced-error,baseline,none,1,0,2
+middle,returner,forced-error,kitchen,returner,2,0,5
+middle,server,forced-error,kitchen,server,0,2,10
+middle,server,unforced-error,mid-court,none,1,2,6
+middle,server,winner,mid-court,returner,2,2,5
+N/A,returner,unforced-error,kitchen,none,3,2,1
+middle,server,winner,baseline,none,2,3,3
+crosscourt,returner,unforced-error,baseline,none,3,3,3
+crosscourt,server,unforced-error,baseline,none,3,3,4
+line,server,forced-error,kitchen,server,4,3,10
+middle,returner,unforced-error,baseline,none,5,3,3
+crosscourt,server,winner,baseline,returner,3,5,5
+line,returner,winner,baseline,server,4,5,6
+crosscourt,server,forced-error,kitchen,server,5,4,8
+line,returner,unforced-error,baseline,none,6,4,3
+crosscourt,returner,winner,kitchen,both,4,6,12
+middle,server,unforced-error,mid-court, server,6,4,8
+crosscourt,server,unforced-error,baseline,none,7,4,4
+crosscourt,returner,winner,kitchen,returner,8,4,8
+line,returner,forced-error,kitchen,both,4,8,6
+middle,returner,winner,baseline,none,8,4,6
+line,server,forced-error,baseline,returner,4,8,3
+crosscourt,returner,unforced-error,mid-court,none,5,8,5
+line,returner,unforced-error,baseline,none,8,5,5
+crosscourt,returner,unforced-error,kitchen,returner,5,8,7
+line,server,unforced-error,kitchen,server,8,5,4
+line,server,unforced-error,kitchen,server,9,5,6
+line,returner,unforced-error,baseline,returner,10,5,3
+crosscourt,server,forced-error,kitchen,server,5,10,8
+line,returner,unforced-error,kitchen,both,6,10,5
+middle,server,unforced-error,kitchen,server,10,6,6
+line,server,unforced-error,baseline,none,0,0,2
+crosscourt,returner,winner,kitchen,both,1,0,8
+crosscourt,returner,winner,kitchen,returner,0,1,10
+crosscourt,returner,unforced-error,baseline,none,1,0,3
+middle,returner,winner,baseline,server,0,1,6
+middle,server,unforced-error,baseline,none,1,0,4
+line,server,winner,baseline,returner,2,0,3
+crosscourt,server,unforced-error,baseline,none,3,0,2
+line,server,unforced-error,mid-court,returner,4,0,12
+crosscourt,returner,winner,mid-court,server,5,0,8
+middle,returner,forced-error,baseline,server,0,5,7
+line,server,winner,baseline,returner,5,0,3
+middle,returner,forced-error,kitchen,both,6,0,9
+crosscourt,returner,winner,baseline,server,0,6,4
+middle,server,winner,kitchen,server,6,0,5
+crosscourt,server,winner,baseline,returner,7,0,5
+middle,server,winner,baseline,returner,8,0,7
+middle,returner,unforced-error,baseline,none,9,0,3
+Cross Court,Returner,Unforced Error,Baseline,Server,0,0,4
+Down The Line,Server,Forced Error,Baseline,None,0,0,2
+Cross Court,Server,Forcer Error,Kitchen,Returner,1,0,7
+Cross Court,Server,Winner,Kitchen,Server,2,0,7
+Down The Line,Returner,Forced Error,Kitchen,Returner,3,0,10
+Cross Court,Server,Winner,Kitchen,Server,0,3,7
+Cross Court,Returner,Forced Error,Baseline,Returner,1,3,5
+Cross Court,Returner,Unforced Error,Baseline,None,3,1,2
+Cross Court,Server,Winner,Kitchen,Server,1,3,7
+Cross Court,Server,Unforced Error,Baseline,Server,2,3,4
+Down The line,Server,Unforced Error,Baseline,None,3,3,5
+Cross Court,Returner,Forced Error,Kitchen,Returner,3,3,5
+Cross Court,Server,Forced Error,Baseline,Server,3,3,4
+Middle,Server,Forced Error,Kitchen,Returner,3,3,6
+Cross Court,Returner,Unforced Error,Mid-Court,Returner,4,3,9
+Middle,Returner,Forced Error,Mid-Court,None,3,4,5
+Middle,Returner,Forced Error,Mid-Court,None,4,3,5
+Cross Court,Server,Unforced Error,Baseline,Server,3,4,4
+Down The line,Returner,Forced Error,Mid-Court,Server,4,4,11
+Cross Court,Server,Forced Error,Mid-Court,Returner,4,4,4
+Down The line,Server,Winner,Baseline,Returner,5,4,5
+Down The line,Returner,Forced Error,Baseline,Returner,6,4,12
+Cross Court,Server,Unforced Error,Mid-Court,Both,4,6,9
+Middle,Returner,Winner,Mid-Court,Returner,5,6,6
+Cross Court,Server,Winner,Baseline,Returner,6,5,3
+Down The line,Returner,Forced Error,Baseline,Returner,7,5,3
+Cross Court,Server,Unforced Error,Baseline,Server,5,7,4
+Cross Court,Returner,Winner,Mid-Court,Server,6,7,6
+Down The line,Returner,Unforced Error,Baseline,Returner,7,6,3
+Cross Court,Returner,Unforced Error,Mid-Court,Server,6,7,3
+Cross Court,Server,Forced Error,Kitchen,Both,7,6,5
+Middle,Returner,Unforced Error,Mid-Court,Returner,8,6,3
+Middle,Returner,Forced Error,Mid-Court,Returner,6,8,14
+Middle,Server,Forced Error,Baseline,None,8,6,2
+Down The line,Server,Forced Error,Kitchen,Returner,9,6,8
+Cross Court,Server,Winner,Baseline,Returner,10,6,5
+Down The line,Returner,Unforced Error,Mid-Court,Returner,0,0,4
+Cross Court,Returner,Unforced Error,Mid-Court,Server,0,0,3
+Cross Court,Server,Forced Error,Baseline,Returner,0,0,4
+N/A,Returner,Unforced Error,Baseline,None,1,0,1
+Cross Court,Server,Forced Error,Kitchen,Both,0,1,14
+Cross Court,Server,Forced Error,Mid-Court,Server,1,1,7
+Cross Court,Server,Unforced Error,Baseline,None,2,1,2
+Down The line,Server,Unforced Error,Baseline,None,3,1,4
+Cross Court,Returner,Winner,Mid-Court,Server,4,1,18
+Down The line,Server,Winner,Mid-Court,Returner,1,4,7
+Middle,Returner,Unforced Error,Mid-Court,Returner,2,4,5
+Cross Court,Server,Forced Error,Mid-Court,Server,4,2,8
+Cross Court,Returner,Forced Error,Mid-Court,Server,5,2,5
+N/A,Server,Forced Error,Baseline,None,2,5,1
+Cross Court,Server,Unforced Error,Baseline,None,3,5,2
+Cross Court,Server,Winner,Mid-Court,Returner,4,5,7
+Down The line,Server,Winner,Baseline,Returner,5,5,3
+Cross Court,Server,Unforced Error,Baseline,None,6,5,2
+Down The line,Server,Winner,Baseline,None,7,5,3
+Cross Court,Returner,Winner,Mid-Court,Returner,8,5,10
+Cross Court,Server,Unforced Error,Mid-Court,Returner,5,8,10
+Cross Court,Returner,Winner,Baseline,Server,6,8,6
+Cross Court,Returner,Unforced Error,Baseline,None,8,6,3
+Cross Court,Returner,Unforced Error,Baseline,None,6,8,3
+Down The line,Server,Forced Error,Mid-Court,Returner,8,6,4
+Down The line,Server,Forced Error,Kitchen,Both,9,6,9
+Cross Court,Returner,Unforced Error,Baseline,Returner,10,6,3
+Cross Court,Returner,Winner,Mid-Court,Returner,6,10,4
+Middle,Server,Unforced Error,Mid-Court,Returner,10,6,4
+Cross Court,Server,Unforced Error,Baseline,None,1,0,3
+N/A,Server,Winner,Baseline,Returner,2,0,2
+Down The Line,Returner,Unforced Error,Baseline,Returner,2,0,7
+Cross Court,Returner,Winner,Baseline,Server,0,2,4
+Middle,Returner,Forced Error,Kitchen,Both,0,2,7
+Middle,Returner,Unforced Error,Baseline,Returner,2,0,3
+Middle,Server,Unforced Error,Baseline,Returner,1,2,4
+Middle,Server,Unforced Error,Mid-Court,Server,2,2,4
+Cross Court,Returner,Winner,Baseline,Both,2,2,3
+Down The Line,Server,Winner,Baseline,None,3,2,11
+Middle,Server,Winner,Baseline,Returner,4,2,5
+Middle,Returner,Forced Error,Baseline,Returner,4,2,5
+Cross Court,Server,Winner,Mid-Court,Server,3,4,9
+Cross Court,Server,Winner,Mid-Court,Server,4,4,7
+Cross Court,Returner,Winner,Baseline,Server,4,4,10
+N/A,Server,Unforced Error,Baseline,None,5,4,2
+Middle,Returner,Unforced Error,Mid-Court,None,5,4,5
+Cross Court,Server,Forced Error,Baseline,None,5,5,5
+Middle,Server,Forced Error,Baseline,None,6,5,6
+Cross Court,Server,Unforced Error,Baseline,None,7,5,4
+Middle,Server,Unforced Error,Baseline,Server,8,5,4
+Middle,Returner,Winner,Baseline,Server,8,5,4
+Middle,Server,Forced Error,Kitchen,Both,6,8,6
+Cross Court,Returner,Winner,Mid-Court,Returner,6,8,8
+Cross Court,Returner,Unforced Error,Mid-Court,Returner,6,8,5
+Middle,Server,Forced Error,Kitchen,Both,7,8,6
+Cross Court,Server,Unforced Error,Baseline,Returner,8,8,4
+Middle,Server,Winner,Baseline,Returner,9,8,7
+Cross Court,Server,Winner,Baseline,Server,10,8,5
+Cross Court,Returner,Winner,Mid-Court,Returner,10,8,6
+Middle,Server,Forced Error,Baseline,Server,9,10,6
+Middle,Returner,Forced Error,Baseline,Returner,9,10,9
+Cross Court,Returner,Unforced Error,Baseline,Server,10,9,5
+Down The Line,Returner,Winner,Baseline,Both,10,9,6
+Cross Court,Server,Winner,Baseline,Returner,11,9,3
+Cross Court,Returner,Winner,Baseline,None,0,0,8
+N/A,Server,Unforced Error,Baseline,None,1,0,2
+Cross Court,Server,Winner,Baseline,None,2,0,5
+Cross Court,Returner,Unforced Error,Mid-Court,Returner,2,0,5
+Middle,Returner,Forced Error,Baseline,Both,0,2,9
+Middle,Returner,Unforced Error,Baseline,Returner,2,0,3
+Cross Court,Returner,Unforced Error,Baseline,None,0,2,7
+Middle,Returner,Forced Error,Mid-Court,Both,2,0,5
+Cross Court,Server,Winner,Mid-Court,Both,1,2,13
+Cross Court,Server,Forced Error,Baseline,None,2,2,8
+Down The Line,Server,Winner,Kitchen,Server,3,2,5
+Cross Court,Returner,Winner,Baseline,Returner,3,2,8
+N/A,Server,Unforced Error,Baseline,None,3,3,2
+Cross Court,Returner,Forced Error,Kitchen,Both,3,3,17
+Cross Court,Server,Winner,Kitchen,Server,4,3,7
+Cross Court,Server,Unforced Error,Baseline,None,5,3,4
